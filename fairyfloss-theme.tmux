@@ -1,30 +1,29 @@
-# Colors (based on Fairyfloss)
+# Colors (based on Fairyfloss by sailorhg)
 
-set -g colors-silver        "#f8f8f0"
-set -g colors-dark-gray     "#49483e"
-set -g colors-lavender-gray "#5a5475"
-set -g colors-shadow        "#3b3a32"
-set -g colors-bg-purple     "#5a5475"
+set -g ff-silver        "#f8f8f0"
+set -g ff-dark-gray     "#49483e"
+set -g ff-lavender-gray "#5a5475"
+set -g ff-shadow        "#3b3a32"
+set -g ff-bg-purple     "#5a5475"
 
-set -g colors-pink         "#ffb8d1"
-set -g colors-peach        "#ff857f"
-set -g colors-magenta      "#f92672"
-set -g colors-deep-magenta "#c7054c"
+set -g ff-pink         "#ffb8d1"
+set -g ff-peach        "#ff857f"
+set -g ff-magenta      "#f92672"
+set -g ff-deep-magenta "#c7054c"
 
-set -g colors-pale-gold "#fffbe6"
-set -g colors-goldenrod "#fffea0"
-set -g colors-gold      "#e6c000"
-set -g colors-deep-gold "#b39500"
+set -g ff-pale-gold "#fffbe6"
+set -g ff-goldenrod "#fffea0"
+set -g ff-gold      "#e6c000"
+set -g ff-deep-gold "#b39500"
 
-set -g colors-pale-seafoam "#e6fff2"
-set -g colors-seafoam      "#c2ffdf"
-set -g colors-dark-seafoam "#80ffbd"
-
-set -g colors-dusty-lilac   "#efe6ff"
-set -g colors-lilac         "#c5a3ff"
-set -g colors-lavender      "#8076aa"
-set -g colors-bright-purple "#ae81ff"
-set -g colors-violet        "#63588d"
+set -g ff-pale-seafoam "#e6fff2"
+set -g ff-seafoam      "#c2ffdf"
+set -g ff-dark-seafoam "#80ffbd"
+set -g ff-dusty-lilac   "#efe6ff"
+set -g ff-lilac         "#c5a3ff"
+set -g ff-lavender      "#8076aa"
+set -g ff-bright-purple "#ae81ff"
+set -g ff-violet        "#63588d"
 
 
 
